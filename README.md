@@ -1,6 +1,6 @@
 # Stock market movement prediction Part 1: Nasdaq news scraper 
 
-Stock market movement prediction is an important issue in the financial world for investment strategies. This project is the part 1 for the "Stock Market Movement Prediction" project which is particularly to analyze the stock price movement for Tesla Inc, but can be expand to other companies by changing the keywords. We want to help them gauge the market sentiment in order to make better investment decisions.
+Stock market movement prediction is an important issue in the financial world for investment strategies. This project is the **part 1** for the "Stock Market Movement Prediction" project which is particularly to analyze the stock price movement for **Tesla Inc**, *but can be expand to other companies by changing the keywords*. We want to help them gauge the market sentiment in order to make better investment decisions.
 
 ### Prerequisites
 
